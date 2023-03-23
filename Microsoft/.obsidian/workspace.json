@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "f87465c47ecb6411",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b7923fe2c030088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "557d076562635744",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "977ef043c43cde47",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eb0c450f0cb5885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc7401db139b5982",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5857c66bfcb4ee3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#gallium",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c71f436aedfa6a6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.49999618530273
+  },
+  "right": {
+    "id": "097b42d6d5233c4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec8ae089a559844f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1410a9872f385b07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5dace96bbb9dd33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb882701eccd5595",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a70ef2fd46491478",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "557d076562635744",
+  "lastOpenFiles": [
+    "FY24 - Gallium/AVS Networking/all-combined/Drawing 2023-03-23 13.55.12.excalidraw.md",
+    "FY24 - Gallium/AVS Networking/all-combined/Drawing 2023-03-23 13.55.12.excalidraw.png",
+    "FY24 - Gallium/AVS Networking/all-combined/networking-options (1).svg",
+    "FY24 - Gallium/AVS Networking/all-combined/networking-options (1).png",
+    "FY24 - Gallium/AVS Networking/3rd Party NVA in AVS/3rd-party-nva-globalreach.exclaidraw.md",
+    "FY24 - Gallium/AVS Networking/all-combined/networking-options.svg",
+    "FY24 - Gallium/AVS Networking/all-combined/networking-options.png",
+    "FY24 - Gallium/AVS Networking/3rd Party NVA in AVS/3rd-party-nva-interconnect.exclaidraw.md",
+    "FY24 - Gallium/AVS Networking/3rd Party NVA in AVS/3rd-party-nva-intra-sddc.exclaidraw.md",
+    "FY24 - Gallium/AVS Networking/GlobalReach/GlobalReach.excalidraw.md",
+    "FY24 - Gallium/AVS Networking/AVS-Interconnect/AVSInterconnect.excalidraw.md",
+    "FY24 - Gallium/AVS Networking/IntraSDDC/IntraSDDC.excalidraw.md",
+    "FY24 - Gallium/AVS Networking/IntraCluster/IntraCluster.excalidraw.md",
+    "FY24 - Gallium/AVS Networking/all-combined",
+    "FY24 - Gallium/AVS Networking/IntraSDDC/IntraSDDC.svg",
+    "FY24 - Gallium/AVS Networking/IntraSDDC/IntraSDDC.png",
+    "FY24 - Gallium/AVS Networking/IntraSDDC/Intra SDDC.md",
+    "FY24 - Gallium/AVS Networking/IntraCluster/IntraCluster.svg",
+    "FY24 - Gallium/AVS Networking/IntraCluster/IntraCluster.png",
+    "FY24 - Gallium/AVS Networking/AVS-Interconnect/AVSInterconnect.svg",
+    "FY24 - Gallium/AVS Networking/GlobalReach/Inter Region.md",
+    "FY24 - Gallium/AVS Networking/Inter Cluster(s).md",
+    "FY24 - Gallium/AVS Networking/3rd Party NVA in AVS",
+    "FY24 - Gallium/AVS Networking/AVS-Interconnect/Intra Region.md",
+    "FY24 - Gallium/Cost Optimization/Tooling.md",
+    "FY24 - Gallium/AVS CSS Handover/Handover between CSS and FastTrack for Azure.md",
+    "FY24 - Gallium/Continued AVS CAT Work/AVS PG Information.md",
+    "FY24 - Gallium/AVS Networking/GlobalReach",
+    "FY24 - Gallium/AVS Networking/AVS-Interconnect",
+    "FY24 - Gallium/AVS Networking/IntraSDDC",
+    "FY24 - Gallium/AVS Networking/IntraCluster",
+    "FY24 - Gallium/GA-OKRs/Gallium OKRs.md",
+    "FY24 - Gallium/Cost Optimization/Approach.md",
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "FY24 - Gallium/AVS Networking",
+    "FY24 - Gallium/Cost Optimization/Untitled",
+    "FY23/AMMP/AMMP Engineering work.md",
+    "FY23/AVS/FTA Work.md",
+    "FY23/AVS/Azure VMware Solution (AVS).md",
+    "Home Page.md",
+    "FY23/AVS/Internal FTA Work.md",
+    "FY23/AVS/AVS Key Links.md",
+    "FY23/AVS/Internal Links.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

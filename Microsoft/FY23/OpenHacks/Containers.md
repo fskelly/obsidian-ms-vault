@@ -1,0 +1,4 @@
+# March 2023
+Performing Tech Lead role for this OpenHack
+
+[OpenHack 246: Containers - March 2023](onenote:https://microsofteur-my.sharepoint.com/personal/flkelly_microsoft_com/Documents/Fletcher%20@%20Microsoft/FastTrack%20For%20Azure/OpenHacks.one#OpenHack%20246%20Containers%20-%20March%202023&section-id={1F8E9288-9FFF-40DA-9D9B-64945A24662A}&page-id={1A45B1AE-7C3B-47EE-A6DD-F74D9ECEF1BC}&end)  ([Web view](https://microsofteur-my.sharepoint.com/personal/flkelly_microsoft_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fflkelly_microsoft_com%2FDocuments%2FFletcher%20%40%20Microsoft&wd=target%28FastTrack%20For%20Azure%2FOpenHacks.one%7C1F8E9288-9FFF-40DA-9D9B-64945A24662A%2FOpenHack%20246%3A%20Containers%20-%20March%202023%7C1A45B1AE-7C3B-47EE-A6DD-F74D9ECEF1BC%2F%29))
