@@ -1,4 +1,4 @@
-We need to build some tooling
+We need to build some [[Tooling]]
 
 Want to shadow and learn how to develop this
 

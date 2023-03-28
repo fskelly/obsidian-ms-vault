@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7b7923fe2c030088",
+        "id": "f844a3ce7bc6c0ac",
         "type": "tabs",
         "children": [
           {
-            "id": "557d076562635744",
+            "id": "4bc23e2088aa635a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gallium (FY24)/Continued AVS CAT Work/Customer0 Fairfax/28-03-2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gallium (FY24)/Continued AVS CAT Work/Customer0 Fairfax/28-03-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gallium (FY24)/Continued AVS CAT Work/Customer0 Fairfax/28-03-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gallium (FY24)/Continued AVS CAT Work/Customer0 Fairfax/28-03-2023.md"
+              }
             }
           }
         ],
@@ -139,53 +147,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "557d076562635744",
+  "active": "4bc23e2088aa635a",
   "lastOpenFiles": [
-    "FY24 - Gallium/AVS Networking/all-combined/Drawing 2023-03-23 13.55.12.excalidraw.md",
+    "Gallium (FY24)/Cost Optimization/Tooling.md",
+    "Gallium (FY24)/AMMP/AMMP Work.md",
+    "Gallium (FY24)/AMMP/AMMP Engineering work.md",
+    "Gallium (FY24)/AMMP",
+    "Gallium (FY24)/Continued AVS CAT Work/Customer0 Fairfax/Work.md",
+    "FY24 - Gallium/Continued AVS CAT Work/Customer0 Fairfax/Untitled.md",
+    "Gallium (FY24)/Continued AVS CAT Work/Customer0 Fairfax/28-03-2023.md",
+    "Gallium (FY24)/Continued AVS CAT Work/Customer0 Fairfax/27-03-2023.md",
+    "Gallium (FY24)/Continued AVS CAT Work/Customer0 Fairfax",
+    "FY24 - Gallium/Continued AVS CAT Work/Customer0",
+    "FY24 - Gallium/Continued AVS CAT Work/Untitled",
+    "Gallium (FY24)/Cost Optimization/Queries.md",
+    "Gallium (FY24)/Cost Optimization/Azure PowerShell.md",
+    "Gallium (FY24)/Cost Optimization/Azure CLI.md",
+    "Gallium (FY24)/Cost Optimization/Approach.md",
+    "FY23/AVS/Customer Ready.md",
+    "FY24 - Gallium/Cost Optimization/Untitled.md",
+    "FY23/AVS/AVS Key Links.md",
+    "FY23/AVS/Internal Links.md",
+    "FY23/AVS/Azure VMware Solution (AVS).md",
+    "FY23/AVS/FTA Work.md",
+    "AVS AMA.md",
+    "Gallium (FY24)/AVS Networking/AVS Networking.md",
+    "Home Page.md",
+    "Gallium (FY24)/AVS Networking/3rd Party NVA in AVS/3rd-party-nva-globalreach.exclaidraw.md",
+    "Gallium (FY24)/AVS Networking/3rd Party NVA in AVS/3rd-party-nva-interconnect.exclaidraw.md",
+    "Gallium (FY24)/AVS Networking/all-combined/Drawing 2023-03-23 13.55.12.excalidraw.md",
+    "Gallium (FY24)/AVS Networking/all-combined/networking-options.png",
+    "Gallium (FY24)/AVS Networking/IntraCluster/IntraCluster.excalidraw.md",
+    "FY23/Enterprise Scale - Eire/Enterprise Scale for CSU - Ireland.md",
+    "Gallium (FY24)/AVS Networking/AVS-Interconnect/AVSInterconnect.svg",
+    "FY23/AVS/AVS Tasks.md",
     "FY24 - Gallium/AVS Networking/all-combined/Drawing 2023-03-23 13.55.12.excalidraw.png",
     "FY24 - Gallium/AVS Networking/all-combined/networking-options (1).svg",
     "FY24 - Gallium/AVS Networking/all-combined/networking-options (1).png",
-    "FY24 - Gallium/AVS Networking/3rd Party NVA in AVS/3rd-party-nva-globalreach.exclaidraw.md",
-    "FY24 - Gallium/AVS Networking/all-combined/networking-options.svg",
-    "FY24 - Gallium/AVS Networking/all-combined/networking-options.png",
-    "FY24 - Gallium/AVS Networking/3rd Party NVA in AVS/3rd-party-nva-interconnect.exclaidraw.md",
-    "FY24 - Gallium/AVS Networking/3rd Party NVA in AVS/3rd-party-nva-intra-sddc.exclaidraw.md",
-    "FY24 - Gallium/AVS Networking/GlobalReach/GlobalReach.excalidraw.md",
-    "FY24 - Gallium/AVS Networking/AVS-Interconnect/AVSInterconnect.excalidraw.md",
-    "FY24 - Gallium/AVS Networking/IntraSDDC/IntraSDDC.excalidraw.md",
-    "FY24 - Gallium/AVS Networking/IntraCluster/IntraCluster.excalidraw.md",
-    "FY24 - Gallium/AVS Networking/all-combined",
-    "FY24 - Gallium/AVS Networking/IntraSDDC/IntraSDDC.svg",
-    "FY24 - Gallium/AVS Networking/IntraSDDC/IntraSDDC.png",
-    "FY24 - Gallium/AVS Networking/IntraSDDC/Intra SDDC.md",
-    "FY24 - Gallium/AVS Networking/IntraCluster/IntraCluster.svg",
-    "FY24 - Gallium/AVS Networking/IntraCluster/IntraCluster.png",
-    "FY24 - Gallium/AVS Networking/AVS-Interconnect/AVSInterconnect.svg",
-    "FY24 - Gallium/AVS Networking/GlobalReach/Inter Region.md",
-    "FY24 - Gallium/AVS Networking/Inter Cluster(s).md",
-    "FY24 - Gallium/AVS Networking/3rd Party NVA in AVS",
-    "FY24 - Gallium/AVS Networking/AVS-Interconnect/Intra Region.md",
-    "FY24 - Gallium/Cost Optimization/Tooling.md",
-    "FY24 - Gallium/AVS CSS Handover/Handover between CSS and FastTrack for Azure.md",
-    "FY24 - Gallium/Continued AVS CAT Work/AVS PG Information.md",
-    "FY24 - Gallium/AVS Networking/GlobalReach",
-    "FY24 - Gallium/AVS Networking/AVS-Interconnect",
-    "FY24 - Gallium/AVS Networking/IntraSDDC",
-    "FY24 - Gallium/AVS Networking/IntraCluster",
-    "FY24 - Gallium/GA-OKRs/Gallium OKRs.md",
-    "FY24 - Gallium/Cost Optimization/Approach.md",
-    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "FY24 - Gallium/AVS Networking",
-    "FY24 - Gallium/Cost Optimization/Untitled",
-    "FY23/AMMP/AMMP Engineering work.md",
-    "FY23/AVS/FTA Work.md",
-    "FY23/AVS/Azure VMware Solution (AVS).md",
-    "Home Page.md",
-    "FY23/AVS/Internal FTA Work.md",
-    "FY23/AVS/AVS Key Links.md",
-    "FY23/AVS/Internal Links.md",
+    "Gallium (FY24)/AVS Networking/all-combined/networking-options.svg",
+    "Gallium (FY24)/AVS Networking/all-combined",
+    "Gallium (FY24)/AVS Networking/IntraSDDC/IntraSDDC.svg",
+    "Gallium (FY24)/AVS Networking/IntraSDDC/IntraSDDC.png",
+    "Gallium (FY24)/AVS Networking/IntraCluster/IntraCluster.svg",
+    "Gallium (FY24)/AVS Networking/IntraCluster/IntraCluster.png",
+    "Gallium (FY24)/AVS Networking/3rd Party NVA in AVS",
+    "Gallium (FY24)/AVS Networking/GlobalReach",
+    "Gallium (FY24)/AVS Networking/AVS-Interconnect",
+    "Gallium (FY24)/AVS Networking/IntraSDDC",
+    "Gallium (FY24)/AVS Networking/IntraCluster",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
