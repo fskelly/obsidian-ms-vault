@@ -13,13 +13,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FY24 - Gallium/AVS Advisor/Thoughts.md",
+                "file": "Home Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0b0791474e1faa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FY24 - Gallium/Video Idea - 5 mins or less/Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a26adc0accd207b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "FY24 - Gallium/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows/general-azure-native-on-premises.jpg"
+              }
+            }
+          },
+          {
+            "id": "e9e940e4f44a6520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FY24 - Gallium/Video Idea - 5 mins or less/Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66dd0e4f2ffef76e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FY24 - Gallium/Video Idea - 5 mins or less/Ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FY24 - Gallium/AVS Advisor/Thoughts.md",
+                "file": "FY24 - Gallium/Video Idea - 5 mins or less/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FY24 - Gallium/AVS Advisor/Thoughts.md",
+                "file": "FY24 - Gallium/Video Idea - 5 mins or less/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +180,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FY24 - Gallium/AVS Advisor/Thoughts.md"
+                "file": "FY24 - Gallium/Video Idea - 5 mins or less/Ideas.md"
+              }
+            }
+          },
+          {
+            "id": "ca42236f5716d134",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -155,55 +212,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "557d076562635744",
+  "active": "66dd0e4f2ffef76e",
   "lastOpenFiles": [
-    "FY24 - Gallium/Continued AVS CAT Work/AVS PG Information.md",
-    "FY24 - Gallium/AVS Advisor/Thoughts.md",
-    "FY24 - Gallium/AVS Advisor",
+    "FY24 - Gallium/Video Idea - 5 mins or less/Format.md",
+    "FY24 - Gallium/Video Idea - 5 mins or less/Ideas.md",
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
+    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas/Migrations.md",
+    "FY24 - Gallium/AVS Learning Thursdays/19-10-2023/Networking Flows.md",
+    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas/Mobility Optimized Networking.md",
+    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas/Monitoring AVS.md",
+    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas/How does Global Reach work in AVS.md",
+    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas/AVS Firewalling.md",
+    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas/AVS BCDR.md",
+    "FY24 - Gallium/Video Idea - 5 mins or less/Process.md",
+    "FY24 - Gallium/Video Idea - 5 mins or less/Tooling.md",
+    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas/Data Flow Diagrams.md",
+    "FY24 - Gallium/Video Idea - 5 mins or less/AVS",
+    "FY24 - Gallium/Video Idea - 5 mins or less/Data Flow diagrams.md",
+    "FY24 - Gallium/Video Idea - 5 mins or less/Ideas/Untitled",
+    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas",
+    "FY24 - Gallium/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows/general-ref.jpg",
+    "FY24 - Gallium/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows/general-exrconnection.jpg",
+    "FY24 - Gallium/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows/general-azure-native-on-premises.jpg",
+    "FY24 - Gallium/AVS Learning Thursdays/AVS Learnings from our FastTrack for Azure Session.md",
+    "FY24 - Gallium/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows",
+    "FY24 - Gallium/AVS Learning Thursdays/19-10-2023",
+    "FY24 - Gallium/Video Idea - 5 mins or less/General Idea.md",
+    "Home Page.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "FY24 - Gallium/Video Idea - 5 mins or less/Example.md",
+    "FY24 - Gallium/AVS Keylinks/A collection of key AVS Links for FY24 with regards to Azure VMware Solution.md",
+    "FY24 - Gallium/Video Idea - 5 mins or less",
+    "FY24 - Gallium/AVS Keylinks",
+    "FY24 - Gallium/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows/general-grconnection.jpg",
+    "FY24 - Gallium/AVS Learning Thursdays/AVS-Base-Networking.vsdx",
     "FY24 - Gallium/Cost Optimization/Tooling.md",
+    "FY24 - Gallium/AVS Learning Thursdays",
     "FY24 - Gallium/Cost Optimization/Approach.md",
-    "FY24 - Gallium/GA-OKRs/Gallium OKRs.md",
-    "FY24 - Gallium/AVS Networking/all-combined/Drawing 2023-03-23 13.55.12.excalidraw.md",
+    "FY24 - Gallium/AVS Advisor/Thoughts.md",
+    "FY23/OpenHacks/Secure Networking.md",
+    "FY23/OpenHacks/OpenHacks.md",
+    "FY23/OpenHacks/Containers.md",
+    "FY23/Enterprise Scale - Eire/Enterprise Scale for CSU - Ireland.md",
+    "FY23/AVS/Azure_VMware_Solution.pdf",
     "FY24 - Gallium/AVS Networking/all-combined/Drawing 2023-03-23 13.55.12.excalidraw.png",
     "FY24 - Gallium/AVS Networking/all-combined/networking-options (1).svg",
     "FY24 - Gallium/AVS Networking/all-combined/networking-options (1).png",
-    "FY24 - Gallium/AVS Networking/3rd Party NVA in AVS/3rd-party-nva-globalreach.exclaidraw.md",
     "FY24 - Gallium/AVS Networking/all-combined/networking-options.svg",
     "FY24 - Gallium/AVS Networking/all-combined/networking-options.png",
-    "FY24 - Gallium/AVS Networking/3rd Party NVA in AVS/3rd-party-nva-interconnect.exclaidraw.md",
-    "FY24 - Gallium/AVS Networking/3rd Party NVA in AVS/3rd-party-nva-intra-sddc.exclaidraw.md",
-    "FY24 - Gallium/AVS Networking/GlobalReach/GlobalReach.excalidraw.md",
-    "FY24 - Gallium/AVS Networking/AVS-Interconnect/AVSInterconnect.excalidraw.md",
-    "FY24 - Gallium/AVS Networking/IntraSDDC/IntraSDDC.excalidraw.md",
-    "FY24 - Gallium/AVS Networking/IntraCluster/IntraCluster.excalidraw.md",
-    "FY24 - Gallium/AVS Networking/all-combined",
-    "FY24 - Gallium/AVS Networking/IntraSDDC/IntraSDDC.svg",
-    "FY24 - Gallium/AVS Networking/IntraSDDC/IntraSDDC.png",
-    "FY24 - Gallium/AVS Networking/IntraSDDC/Intra SDDC.md",
-    "FY24 - Gallium/AVS Networking/IntraCluster/IntraCluster.svg",
-    "FY24 - Gallium/AVS Networking/IntraCluster/IntraCluster.png",
-    "FY24 - Gallium/AVS Networking/AVS-Interconnect/AVSInterconnect.svg",
-    "FY24 - Gallium/AVS Networking/GlobalReach/Inter Region.md",
-    "FY24 - Gallium/AVS Networking/Inter Cluster(s).md",
-    "FY24 - Gallium/AVS Networking/3rd Party NVA in AVS",
-    "FY24 - Gallium/AVS Networking/AVS-Interconnect/Intra Region.md",
-    "FY24 - Gallium/AVS CSS Handover/Handover between CSS and FastTrack for Azure.md",
-    "FY24 - Gallium/AVS Networking/GlobalReach",
-    "FY24 - Gallium/AVS Networking/AVS-Interconnect",
-    "FY24 - Gallium/AVS Networking/IntraSDDC",
-    "FY24 - Gallium/AVS Networking/IntraCluster",
-    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "FY24 - Gallium/AVS Networking",
-    "FY23/AMMP/AMMP Engineering work.md",
-    "FY23/AVS/FTA Work.md",
-    "FY23/AVS/Azure VMware Solution (AVS).md",
-    "Home Page.md",
-    "FY23/AVS/Internal FTA Work.md",
-    "FY23/AVS/AVS Key Links.md",
-    "FY23/AVS/Internal Links.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "FY24 - Gallium/AVS Networking/IntraSDDC/IntraSDDC.svg"
   ]
 }

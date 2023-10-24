@@ -1,1 +1,1 @@
-The Law of Inertia is one of the [[Three laws of motion]]
+The Law of Inertia is one of the [Three laws of motion](Three%20laws%20of%20motion.md)

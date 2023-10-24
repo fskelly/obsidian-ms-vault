@@ -1,0 +1,3 @@
+Project to document some customer journey maps
+[AVS Customer Journey Map | Microsoft Whiteboard](https://whiteboard.office.com/me/whiteboards/p/c3BvOmh0dHBzOi8vbWljcm9zb2Z0LW15LnNoYXJlcG9pbnQuY29tL3BlcnNvbmFsL2phc29ubWVkaW5hX21pY3Jvc29mdF9jb20%3d/b!1XxKezYNl0yftZE2vsaPZakBCR3bj-5Knu6DHW9LX8Hdh7N_BKf8R6YAszNx6PbJ/01L4IY7V34KE6P72XY2NCLWM66DXIAKSMK?fromShare=true)
+
