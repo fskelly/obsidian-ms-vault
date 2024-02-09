@@ -50,4 +50,4 @@ We are now a global team and we should have a global approach to allow work to b
 1. Have a common scoping template used across all regions as a global team.
 2. Use non technical English to capture as much information as quickly as possible
 
-[[FY24 - Gallium/Docathon/Approach|New Triage Questions]]
+[[FY24/Docathon/Approach|New Triage Questions]]

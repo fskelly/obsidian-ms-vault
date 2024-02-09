@@ -1,0 +1,7 @@
+- [ ] Send out update email to PMDLs
+- [ ] Create an action plan
+	- [ ] Find customers for "retrospectives"
+	- [ ] Setup sync session around tooling used with customers within regions
+	- [ ] Identify Azure Migration SME for each region
+	- [ ] Setup regional AMA
+- [ ] Document Findings

@@ -13,48 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0b0791474e1faa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FY24 - Gallium/Video Idea - 5 mins or less/Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a26adc0accd207b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "FY24 - Gallium/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows/general-azure-native-on-premises.jpg"
-              }
-            }
-          },
-          {
-            "id": "66dd0e4f2ffef76e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FY24 - Gallium/Docathon/Triage Checklist.md",
+                "file": "FY24/Migration-Scenario-Lead/Customer-Retro/Customer 1 (ISS).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 399.5
   },
   "right": {
     "id": "097b42d6d5233c4a",
@@ -121,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FY24 - Gallium/Docathon/Triage Checklist.md",
+                "file": "FY24/Migration-Scenario-Lead/Customer-Retro/Customer 1 (ISS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FY24 - Gallium/Docathon/Triage Checklist.md",
+                "file": "FY24/Migration-Scenario-Lead/Customer-Retro/Customer 1 (ISS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FY24 - Gallium/Docathon/Triage Checklist.md"
+                "file": "FY24/Migration-Scenario-Lead/Customer-Retro/Customer 1 (ISS).md"
               }
             }
           },
@@ -171,7 +136,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -193,54 +160,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66dd0e4f2ffef76e",
+  "active": "557d076562635744",
   "lastOpenFiles": [
+    "FY24/Migration-Scenario-Lead/Question format.md",
+    "FY24/Migration-Scenario-Lead/Customer-Retro/Customer 1 (ISS).md",
+    "FY24/Migration-Scenario-Lead/Customer-Retro/Customer 2.md",
+    "FY24/Migration-Scenario-Lead/Customer-Retro",
+    "FY24/Migration-Scenario-Lead/Ask Me Anything prep - 25-01-2024.md",
+    "FY24/Migration-Scenario-Lead/18-01-2024 - Additional considerations and findings from Kashif.md",
+    "FY24/Untitled",
+    "FY24/Migration-Scenario-Lead/19-01-2024 - Next Steps.md",
+    "Pasted image 20240119090927.png",
+    "Pasted image 20240119090857.png",
+    "FY24/Migration-Scenario-Lead/09-01-2024 - Kashif - Stephie meeting.md",
+    "FY24/FTA Starter Kit/FTA Starter Kit for Azure VMware Solution.md",
+    "FY24/FTA Starter Kit/FTA Welcome Kit for Azure VMware Solution.pdf",
+    "FY24 - Gallium/FTA Starter Kit/FTA Starter Kit for Azure VMware Solution.pdf",
+    "FY24 - Gallium/FTA Starter Kit/FTA Starter Kit for Azure VMware Solution_tmp.html",
+    "Pasted image 20240109153201.png",
+    "Home Page.md",
+    "FY24/Video Idea - 5 mins or less/Ideas.md",
+    "FY24/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows/general-azure-native-on-premises.jpg",
+    "FY24/Video Idea - 5 mins or less/AVS/Ideas/How does Global Reach work in AVS.md",
+    "FY24/Video Idea - 5 mins or less/AVS/Ideas/Migrations.md",
+    "FY24/Video Idea - 5 mins or less/AVS/Ideas/Mobility Optimized Networking.md",
+    "FY24/Video Idea - 5 mins or less/AVS/Ideas/Monitoring AVS.md",
+    "FY24/Video Idea - 5 mins or less/Example.md",
+    "FY24/Video Idea - 5 mins or less/Format.md",
+    "FY24/Video Idea - 5 mins or less/General Idea.md",
+    "FY24/Video Idea - 5 mins or less/Process.md",
+    "FY24/Video Idea - 5 mins or less/Tooling.md",
+    "FY24/Migration-Scenario-Lead",
+    "FY24/Docathon/triage-questions-27-11-2023.pdf",
+    "FY24/Docathon/Approach.md",
+    "FY24/Docathon/Approach.pdf",
+    "FY24/Docathon/Triage Checklist.md",
+    "FY24/Docathon/triage-questions-26-10-2023-11-22-43.pdf",
     "Untitled.canvas",
     "2023-10-26.md",
-    "FY24 - Gallium/Docathon/Approach.md",
     "Excalidraw/Drawing 2023-10-26 13.45.58.excalidraw.md",
-    "FY24 - Gallium/Docathon/Untitled Diagram.svg",
-    "FY24 - Gallium/Docathon/triage-questions-26-10-2023-11-22-43.pdf",
-    "FY24 - Gallium/Video Idea - 5 mins or less/Ideas.md",
-    "Home Page.md",
+    "FY24/Docathon/Untitled Diagram.svg",
     "FY24 - Gallium/Docathon/AVS-Information-Flowchart.drawio.crswap",
-    "FY24 - Gallium/Docathon/AVS-Information-Flowchart.drawio",
-    "FY24 - Gallium/Docathon/Triage Checklist.md",
-    "FY24 - Gallium/FTA Starter Kit/FTA Starter Kit for Azure VMware Solution.md",
-    "FY24 - Gallium/Docathon/Approach.pdf",
-    "FY24 - Gallium/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows/general-azure-native-on-premises.jpg",
-    "FY24 - Gallium/AVS Learning Thursdays/19-10-2023/Networking Flows.md",
-    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas/Data Flow Diagrams.md",
-    "FY24 - Gallium/Video Idea - 5 mins or less/Example.md",
-    "FY24 - Gallium/Video Idea - 5 mins or less/Tooling.md",
-    "FY24 - Gallium/Video Idea - 5 mins or less/Process.md",
-    "FY24 - Gallium/Video Idea - 5 mins or less/General Idea.md",
-    "FY24 - Gallium/FTA Starter Kit",
-    "FY24 - Gallium/Cost Optimization/Approach.md",
-    "FY24 - Gallium/Docathon",
-    "FY24 - Gallium/Video Idea - 5 mins or less/Format.md",
-    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
-    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas/Migrations.md",
-    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas/Mobility Optimized Networking.md",
-    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas/Monitoring AVS.md",
-    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas/How does Global Reach work in AVS.md",
-    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas/AVS Firewalling.md",
-    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas/AVS BCDR.md",
-    "FY24 - Gallium/Video Idea - 5 mins or less/AVS",
-    "FY24 - Gallium/Video Idea - 5 mins or less/Data Flow diagrams.md",
-    "FY24 - Gallium/Video Idea - 5 mins or less/Ideas/Untitled",
-    "FY24 - Gallium/Video Idea - 5 mins or less/AVS/Ideas",
-    "FY24 - Gallium/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows/general-ref.jpg",
-    "FY24 - Gallium/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows/general-exrconnection.jpg",
-    "FY24 - Gallium/AVS Learning Thursdays/AVS Learnings from our FastTrack for Azure Session.md",
-    "FY24 - Gallium/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows",
+    "FY24/AVS Learning Thursdays/19-10-2023/Networking Flows.md",
+    "FY24/Video Idea - 5 mins or less/AVS/Ideas/Data Flow Diagrams.md",
+    "FY24/Cost Optimization/Approach.md",
+    "FY24/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows/general-ref.jpg",
+    "FY24/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows/general-exrconnection.jpg",
     "Untitled 1.canvas",
-    "FY24 - Gallium/AVS Keylinks/A collection of key AVS Links for FY24 with regards to Azure VMware Solution.md",
-    "FY24 - Gallium/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows/general-grconnection.jpg",
+    "FY24/AVS Learning Thursdays/19-10-2023/Simplified Networking Flows/general-grconnection.jpg",
     "FY24 - Gallium/AVS Networking/all-combined/Drawing 2023-03-23 13.55.12.excalidraw.png",
-    "FY24 - Gallium/AVS Networking/all-combined/networking-options (1).svg",
-    "FY24 - Gallium/AVS Networking/all-combined/networking-options (1).png",
-    "FY24 - Gallium/AVS Networking/all-combined/networking-options.svg",
-    "FY24 - Gallium/AVS Networking/all-combined/networking-options.png"
+    "FY24 - Gallium/AVS Networking/all-combined/networking-options (1).svg"
   ]
 }

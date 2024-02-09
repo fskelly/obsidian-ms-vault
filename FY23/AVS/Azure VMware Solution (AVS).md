@@ -2,5 +2,5 @@ Azure VMware Solution provides you with private clouds that contain VMware vSphe
 
 [AVS Key Links](AVS%20Key%20Links.md)
 [FTA Work](FTA%20Work.md)
-[ARG](../../FY24%20-%20Gallium/AVS%20Advisor/Thoughts.md)
+[ARG](Thoughts.md)
 

@@ -5,8 +5,6 @@ Think that a time order would add a more natural flow to the questions.
 
 What is our threshold for engaging FastTrack for Azure - node count?
 Starting node count for "normal projects"
-- [ ] **Robin = 10 / Fletcher = 16** _decide a workable number_
-- [ ] Francis - average node count for EMEA projects
 - [ ] Sean - average node count for AMER projects
 Exceptions
 	- Public Sector
@@ -18,6 +16,7 @@ Exceptions
 | AMER | Regulatory compliance requirements |
 | EMEA | Public Sector |
 | EMEA | Regulatory compliance requirements |
+| EMEA | Node Count of 10 or more |
 | ASEA | TBC |
 
 ## General Scoping questions
@@ -29,16 +28,17 @@ Exceptions
 |3. When does customer want to start moving workloads? |  |
 |4. Required FastTrack for Azure start and end dates? |  |
 |5. What is the main business driver for this project? | Data Centre evacuation, DR, HA ...... |
+|6. Is there any design documentation that can be shared already? | High Level Design / Low Level Design / Reference Architecture? |
 
 ### Azure VMware Solution
 
 | Region  | Minimum Node Count |
 | ------------- | ------------- |
 | AMER | 6  |
-| EMEA | TBC  |
+| EMEA | 10  |
 | ASEA | TBC |
 
-- [ ] EMEA node count = 10/16
+- [x] EMEA node count = 10
 - [ ] ASEA node count = N/A
 - [ ] Additional context column to be added as part of final version
 
@@ -53,8 +53,8 @@ Exceptions
 |7. Which region(s) is the customer looking to use? | This is important for understanding capacity and/or other constraints. If customer is looking to use a region other than the one closest to them ask why. |
 |8. What approach to resiliency are you taking with Azure VMware Solution? | Looking for ideas like HA, Backup, DR, Stretched clusters, multi-region, any aspects that can add more complexity. |
 |9. Has a networking pattern been decided upon? | THis is a key aspect with regards to the complexity of the project and how done the journey the customer actually is. Options, VPN, ExpressRoute, HCX network extensions. 3rd party NVA or Network Architecture references patterns - [Example architectures for Azure VMware Solutions](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/example-architectures) or |
-|10. Has an workload assessment been completed? | 1. Azure Migrate Assessment <br> 2. RVTools <br> PM to get these results and attach to Ceres project|
-|11. What is your expected migration approach?  | 1. HCX <br> 2. 3rd party <br> 3. Are you looking at making use of Layer 2 Extension technology? <br> 4.  Use of MON considered? |
+|10. Has an workload assessment been completed? | 1. Azure Migrate Assessment (Azure Native) **OR** <br> 2. RVTools (VMware Native) <br> PM to get these results and attach to Ceres project|
+|11. What is your expected migration approach?  | 1. HCX <br> 2. 3rd party <br> 3. Are you looking at making use of Layer 2 Extension technology? (Keeping same IP addresses on-premises and in Azure VMware Solution)<br> 4.  Use of MON considered? |
 |12. Do you know the expected SKU type?  | Very important for capacity constraints. Not all SKUs are available in all regions - [Azure VMware Solution SKU by region ](https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/?products=azure-vmware&regions=all) - **!! SKU availability does NOT mean that their is capacity for the customer to deploy !!** |
 |13. What is expected deployment node count?  | Request main technical consideration driving the node count |
 |14. Does the customer have experience with Azure VMware Solution?  | VMware experience does NOT mean **AZURE** VMware Solution - these are FUNCTIONALLY the same but not identical in deployment.|

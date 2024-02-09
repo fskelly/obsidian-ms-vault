@@ -1,6 +1,6 @@
 [[Process]]
 [[Example]]
-[[FY24 - Gallium/Video Idea - 5 mins or less/Tooling|Tooling]]
+[[FY24/Video Idea - 5 mins or less/Tooling|Tooling]]
 
 
 Questions to answer:

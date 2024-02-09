@@ -1,0 +1,7 @@
+- Summary of the project scope & status
+    - partner involved?
+    - MSFT teams involved (FTA, other)?
+    - Project timeline
+- Overall satisfaction (scale 1 to 10)?
+- Any feedback - what went well / not so well
+- If it was not raised before – we can maybe pulse a bit what tools they leveraged (MEG, CAF, …)
